@@ -1,0 +1,14 @@
+{
+  "name": "b9254efa7cc8d454",
+  "main": "b9254efa7cc8d454@248.js",
+  "version": "248.0.0",
+  "homepage": "https://observablehq.com/d/b9254efa7cc8d454",
+  "author": {
+    "name": "charitha",
+    "url": "https://observablehq.com/@charitha"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
