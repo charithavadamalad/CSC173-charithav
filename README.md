@@ -1,6 +1,6 @@
-# Data Analysis for MC1
+# Interactive Visualisation 1
 
-https://observablehq.com/d/b9254efa7cc8d454@248
+https://observablehq.com/d/5a196f2b77b0d3b4@698
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,14 +14,14 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@5
-npm install https://api.observablehq.com/d/b9254efa7cc8d454@248.tgz?v=3
+npm install https://api.observablehq.com/d/5a196f2b77b0d3b4@698.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
 
 ~~~js
 import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "b9254efa7cc8d454";
+import define from "5a196f2b77b0d3b4";
 ~~~
 
 To log the value of the cell named “foo”:
